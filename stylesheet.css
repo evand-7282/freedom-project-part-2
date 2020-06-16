@@ -1,0 +1,114 @@
+h1 {
+    text-align:center;
+    font-size:100px;
+    font: 'Ariel' , serif;
+background-color: gray;
+}
+
+.nav-pills .pill-1 .nav-link:not(.active) {
+    background-color: #c44200;
+    color: black;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-2 .nav-link:not(.active) {
+    background-color:#c44200 ;
+    color: black;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-3 .nav-link:not(.active) {
+    background-color: #c44200;
+    color: black;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-4 .nav-link:not(.active) {
+    background-color: #c44200 ;
+    color:black;
+   margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-5 .nav-link:not(.active) {
+    background-color: #c44200 ;
+    color:black;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-6 .nav-link:not(.active) {
+    background-color:#c44200 ;
+    color: black;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+.nav-pills .pill-1 .nav-link {
+    background-color: #bd663a;
+    color: white;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-2 .nav-link {
+    background-color:#bd663a ;
+    color: white;
+     margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-3 .nav-link {
+    background-color: #bd663a;
+    color: white;
+     margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+.nav-pills .pill-4 .nav-link {
+    background-color: #bd663a;
+    color: white;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-5 .nav-link {
+    background-color:#bd663a ;
+    color: white;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+.nav-pills .pill-6 .nav-link {
+    background-color:#bd663a ;
+    color: white;
+    margin:25px;
+    border:5px solid grey;
+    border-radius: 25px;
+}
+
+body {
+    background-color: #e0601f;
+    border:5px solid black;
+
+}
+
+h2{
+    text-align: center;
+    margin: auto;
+}
+container{
+    text-align: center;
+}
