@@ -14,7 +14,7 @@
   </head>
   <div id=" ">
   <body>
-    <h2 class= "animate__fadeInDown">Basic Information</h2>
+    <h2 class= "animate__fadeInDown"> </h2>
     <ul class="nav nav-pills nav-justified" role="tablist">
       <li class= "nav-item pill-1">
         <a class= "nav-link active" data-toggle="pill" href=Basic-Information.html>Basic Information</a>
