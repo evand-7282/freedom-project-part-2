@@ -145,7 +145,7 @@ div6{
     margin:auto;
 }
 
-#basicinfo {
+.basicinfo {
     text-align:center;
     margin: 15px;
 }
