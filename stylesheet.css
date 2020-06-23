@@ -132,3 +132,9 @@ divA {
     margin: 50px;
     
 }
+
+.carousel-inner img{
+    width:60%;
+    height:60%
+        
+}
