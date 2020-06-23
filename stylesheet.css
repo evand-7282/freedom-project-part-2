@@ -135,11 +135,17 @@ divA {
 
 .centre {
   
-  width: 15%;
-    height: 15%;
+  padding:50px;
+    margin:10px;
 }
 
 divB {
+    text-align:center;
+    margin: 100px;
+    word-wrap: break-word;
+}
+
+divC {
     text-align:center;
     margin: 100px;
     word-wrap: break-word;
