@@ -134,8 +134,7 @@ divA {
 }
 
 .centre {
-  margin-left: 10px;
-  margin-right: auto;
+  align:right;
   width: 30%;
     height: 30%;
 }
